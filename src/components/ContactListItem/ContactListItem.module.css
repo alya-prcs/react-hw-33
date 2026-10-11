@@ -1,0 +1,3 @@
+.item { display: flex; justify-content: space-between; align-items: center; gap: 12px; padding: 8px 12px; background: #f5f7fa; border-radius: 4px; }
+.item button { padding: 4px 10px; font: inherit; color: #a61b1b; background: transparent; border: 1px solid #a61b1b; border-radius: 4px; cursor: pointer; }
+.item button:hover { background: #a61b1b; color: #fff; }

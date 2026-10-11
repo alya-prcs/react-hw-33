@@ -1,0 +1,2 @@
+.wrap { display: grid; gap: 8px; margin-bottom: 16px; }
+.wrap input { padding: 8px; font: inherit; border: 1px solid #9aa5b1; border-radius: 4px; }
